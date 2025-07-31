@@ -14,3 +14,8 @@ Setps:
 
 Source:
 https://techcommunity.microsoft.com/blog/windows-itpro-blog/updating-microsoft-secure-boot-keys/4055324
+
+
+If this script did not work, try to install updates manually:
+
+https://www.elevenforum.com/t/act-now-secure-boot-certificates-expire-in-june-2026.37372/post-624448
