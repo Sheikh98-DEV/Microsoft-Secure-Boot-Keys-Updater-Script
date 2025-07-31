@@ -10,3 +10,7 @@ Setps:
 3- Run script
 
 ** it will restart your machine twice to install updates.
+
+
+Source:
+https://techcommunity.microsoft.com/blog/windows-itpro-blog/updating-microsoft-secure-boot-keys/4055324
